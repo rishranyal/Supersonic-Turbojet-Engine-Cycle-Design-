@@ -20,6 +20,8 @@ A fully functional platform to get the desired parameters for a supersonic turbo
 
  This methodology provides a structured approach to addressing the aerodynamic challenges in
  supersonic intake design, ensuring the results are robust and applicable to real-world scenarios.
+ 
+<img width="1024" height="613" alt="Generated Image November 13, 2025 - 8_18PM" src="https://github.com/user-attachments/assets/f82f8117-5e9c-4b2d-bcec-58d315839540" />
 
   References
  1. Anderson, J. D. (2001). Modern Compressible Flow: With Historical Perspective. McGraw Hill.
